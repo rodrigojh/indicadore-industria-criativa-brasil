@@ -6,6 +6,10 @@ Esse trabalho é parte de projeto voluntário junto ao Grupo de Pesquisa da Indu
 
 
 # Fases do processo
+Aqui são apresentadas as etapas necessárias e requititos para o andamento do projeto.
+
+# Fontes de dados
+
 
 
 
